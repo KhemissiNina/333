@@ -1,7 +1,9 @@
 # My project
 ## Список эмоций
 * злость :rage:
-* грусть :cry:
+* любовь :heart_eyes:
 * радость :smiley:
 * гнев :triumph:
 * счастье :blush:
+* восхищение :open_mouth:
+* мотивированность :neckbeard:
